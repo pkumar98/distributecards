@@ -6,7 +6,7 @@ In the project directory, you can run:
 
 ```bash
 git clone https://github.com/pkumar98/distributecards.git
-cd cards
+
 npm install
 ```
 Runs the app in the development mode.<br />
